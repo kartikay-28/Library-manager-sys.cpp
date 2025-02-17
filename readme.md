@@ -3,9 +3,7 @@ Here’s a **README** file for your **Library Management System in C++**. It inc
 - Features  
 - Installation & Compilation  
 - Usage  
-- File Structure  
-- Contributing Guidelines  
-- License  
+
 
 ---
 
